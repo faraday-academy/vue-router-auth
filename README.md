@@ -1,5 +1,7 @@
 # vue-router-auth
 
+This is the project to demonstrate possible auth patterns for Vue.js apps using Vue Router version 4.
+
 ## Project setup
 ```
 npm install
